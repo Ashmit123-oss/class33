@@ -7,6 +7,7 @@ class Bird extends BaseClass {
   }
 
   display() {
+  console.log(this.body.speed);
     //this.body.position.x = mouseX;
     //this.body.position.y = mouseY;
 
